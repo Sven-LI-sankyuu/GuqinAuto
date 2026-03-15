@@ -1,3 +1,6 @@
+# 我发现我缺少很多前置知识, 正在学习MIDI和vocaloid等规范和工具, 可能需要比较长的时间积累后再回来继续开发 (2026.3.15留)
+
+
 ```bash
 # 前端默认在 http://localhost:7137/
 cd frontend && npm install && npm run dev
